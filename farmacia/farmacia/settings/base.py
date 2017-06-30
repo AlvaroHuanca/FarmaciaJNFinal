@@ -7,6 +7,8 @@ STATICFILES_DIRS = (
 
 SECRET_KEY = '6j5&!@q8m8s!)hxj%#m^a4im6xpu%r6qe5&!fywyu1@%&r_n3@'
 
+ALLOWED_HOST = ''
+
 DJANGO_APPS = (
     'suit',
     #'django_admin_bootstrapped',
